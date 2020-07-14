@@ -1,5 +1,4 @@
 # ola-world
-Test
 
 PepeOhai!
 
